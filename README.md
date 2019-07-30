@@ -1,0 +1,2 @@
+# udacity_Investigate_dataset
+I choose the TMDb movie data set for data analysis. This data set contains information about 10,000 movies collected from The Movie Database (TMDb), including user ratings and revenue.I would like to find other intresting patterns in the dataset.  The two questions I will be exploring are:  • What is the average runtime of all movies?  • Is the profit of movies has increased over the years?
